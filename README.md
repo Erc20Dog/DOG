@@ -1,7 +1,5 @@
 # DOG
-DOG token and crowdsale contracts
-
-DOG_Token.sol and DOG_Crowdsale.sol are the smart contracts used for our token and crowdsale.
+DOG token and crowdsale smart contracts.
 
 Visit us at http://erc20.dog
 
